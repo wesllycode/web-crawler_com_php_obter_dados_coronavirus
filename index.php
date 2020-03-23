@@ -54,7 +54,7 @@
     <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
     <link rel="stylesheet" href="./css/my-style.css" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-159235197-2"></script>
     <script>
@@ -74,14 +74,17 @@
             <div class="mx-auto">
                 <a href="http//:www.ibiapaba24horas.com" target="_blank" >  
                     <img width="50px" height="50px" src="images/logo_100x100.png" alt="background-corona">
-                </a>  
+                </a>               
             </div>
+            <button type="button" class="btn btn-success " aria-hidden="true"> Nº de Visitas <?php include("contador.php");?></button>  
       </nav> 
-
+ 
     <div class="mx-auto text-center mt-5 py-5">
         <h1 class="display-4"> COVID-19  NO MUNDO </h1>
         <p class="lead"> FIQUE INFORMADO EM TEMPO REAL TUDO SOBRE CORONAVÍRUS NO MUNDO E NO BRASIL </p>
     </div>
+
+    
 
     <amp-ad width="100vw" height="320"
      type="adsense"
@@ -204,7 +207,7 @@
 </div>
 
         <section>          
-                <h1 class="text-center h4 my-font-titulo mt-4 py-5 ">O QUE É CORONAVÍRUS ? </h1>
+                <h1 class="text-center h4 my-font-titulo mt-4  7ybhpy-5 ">O QUE É CORONAVÍRUS ? </h1>
                 <div class="msg-footer">
                     <div class="container-fluid">
                         <p class="display-5 text-center" style="color:#002441">A doença provocada pelo novo Coronavírus é oficialmente conhecida como COVID-19, sigla em inglês para “coronavirus disease 2019” (doença por coronavírus 2019, na tradução).
