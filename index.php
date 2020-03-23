@@ -189,18 +189,21 @@
         </section>
 
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ibiapaba24horas_main-top-manualslide_AdSense1_1x1_as -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1290649823929419"
-     data-ad-slot="8546071569"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+    <section>
+        <div class="text-center mx-auto">
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- ibiapaba24horas_main-top-manualslide_AdSense1_1x1_as -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-1290649823929419"
+                data-ad-slot="8546071569"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </section>
 
 
 
