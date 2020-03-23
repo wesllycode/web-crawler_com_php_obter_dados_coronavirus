@@ -82,7 +82,7 @@
 </amp-ad>
 
 
-<div class="container" style="border: 3px solid red">
+<div class="container" style="border: 0px solid red">
        
     <section>
     <h2 class="text-center mx-auto"> NO MUNDO </h2>
