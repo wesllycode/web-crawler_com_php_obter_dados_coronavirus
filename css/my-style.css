@@ -1,0 +1,60 @@
+/*!
+ * My CSS
+ * Copyright 2020
+ * Licensed under MIT
+ * Versão 1.0
+ */
+
+body{  height:0px;
+    width: 100%;
+    padding: 0px;
+
+}
+
+.bg-azul-ibiapaba{
+    background-color: #002441;
+}
+
+
+.box-shadow{
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.05),
+                0 4px 8px 0 rgba(0,0,0,.05);
+            
+}
+
+.box-shadow{
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.05),
+                0 4px 8px 0 rgba(0,0,0,.05);
+            
+}
+
+.box-separarDoMenu{
+    padding:72px;
+    
+}
+
+.my-font{
+    font-family: 'Roboto', sans-serif;
+        
+}
+
+.my-font-titulo {
+     font-family: 'Roboto', sans-serif;
+     font-weight: 900;
+}
+
+
+.msg-footer{
+    background-color:#ededed;
+    background-size: cover;
+    padding: 50px;
+   
+}
+
+
+.fundao{
+    background-color:#002441;
+    background-size: cover;
+    padding:5px;
+}
+
