@@ -204,7 +204,7 @@
 </div>
 
         <section>          
-                <h1 class="text-center h4 my-font-titulo ">O QUE É CORONAVÍRUS ? </h1>
+                <h1 class="text-center h4 my-font-titulo py-4 ">O QUE É CORONAVÍRUS ? </h1>
                 <div class="msg-footer">
                     <div class="container-fluid">
                         <p class="display-5 text-center" style="color:#002441">A doença provocada pelo novo Coronavírus é oficialmente conhecida como COVID-19, sigla em inglês para “coronavirus disease 2019” (doença por coronavírus 2019, na tradução).
