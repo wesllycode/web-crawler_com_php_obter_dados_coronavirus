@@ -76,6 +76,7 @@
                     <img width="50px" height="50px" src="images/logo_100x100.png" alt="background-corona">
                 </a>               
             </div>
+            <a class="p-2 text-light" target="blank" href="https://www.worldometers.info/coronavirus/">Fonte: worldometers</a>
             <button type="button" class="btn btn-success " aria-hidden="true"> Nº de Visitas <?php include("contador.php");?></button>  
       </nav> 
  
